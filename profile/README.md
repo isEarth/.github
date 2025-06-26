@@ -20,7 +20,8 @@
     <td align="center">Python</td>
   </tr>
 </table>
-and... special thanks to [@kimnagyeong99](https://github.com/kimnagyeong99)
+     
+and... special thanks to [@kimnagyeong99](https://github.com/kimnagyeong99))
 <br>
 
 ---
