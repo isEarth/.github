@@ -25,13 +25,21 @@ and... special thanks to [@kimnagyeong99](https://github.com/kimnagyeong99)
 
 ---
 # 지구다
-*사용자의 통합적인 이해를 돕기 위해* 
-*유튜브 경제 뉴스에서 접하는 파편화된 지식 속에서* <br>
-*GNN을 통해 지식 간의 연관성을 찾고 컨셉맵 형태로 구조화해주는 시스템* <br>
 
 > 아이디어 경진대회 최우수상
-<br>
 
 > 최종 프로젝트 우수상
 
 [지능정보6기 8조 지구다.pdf](https://github.com/user-attachments/files/20921220/6.8.pdf)
+
+|<img width="912" alt="image" src="https://github.com/user-attachments/assets/11042538-870e-4481-965d-60fe6413def8" />|<img width="912" alt="image" src="https://github.com/user-attachments/assets/66c02851-c28d-4ce1-8e97-8ef9a569c824" />|
+|-|-|
+|<img width="912" alt="image" src="https://github.com/user-attachments/assets/cc2664c0-528e-4ca4-a552-9aa2242c17b1" />|<img width="914" alt="image" src="https://github.com/user-attachments/assets/a39455dd-1de6-4c8f-aa17-12785da42bf8" />|
+|<img width="913" alt="image" src="https://github.com/user-attachments/assets/99bfe016-05e9-4e51-bfe7-abbcfaf4ed27" />|<img width="911" alt="image" src="https://github.com/user-attachments/assets/09a64469-813e-4b1f-a917-32fcd80ce893" />
+|
+
+
+
+
+
+
